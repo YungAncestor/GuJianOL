@@ -9,5 +9,5 @@
 
 一直是private，今天心血来潮了，public开源了吧。
 
-python代码是我写的，cms是国外论坛上找到的，c#版的好像是github上的，具体来源忘了。
+python代码是我写的，bms是国外论坛上找到的，c#版的好像是github上的，具体来源忘了。
 
